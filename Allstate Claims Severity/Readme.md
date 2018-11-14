@@ -19,14 +19,15 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### **Code**
 
-Template code is provided in the notebook `allstate\_project.ipynb` notebook file.
+Template code is provided in the notebook `allstate_project.ipynb` notebook file.
 
 ### **Run**
 
 In a terminal or command window, navigate to the top-level project directory `Kaggle/Allstate Claims Severity/` (that contains this README) and run one of the following commands:
 
-```ipython notebook allstate\_project.ipynb```
-```jupyter notebook allstate\_project.ipynb```
+```ipython notebook allstate_project.ipynb```
+
+```jupyter notebook allstate_project.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
 
